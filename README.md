@@ -1,0 +1,2 @@
+# SnakeGameJS
+JS short exercise
